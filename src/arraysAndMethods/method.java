@@ -21,7 +21,6 @@ public class method {
 		boolean randomBoolean = randomBoolean();
 		double inputMoney = 0.0;
 		
-		
 		//Prints the numerical difference from the fist and last number in the array
 		System.out.println("Age diffrence of static int array: " + ageDiffrence(ages));
 		
